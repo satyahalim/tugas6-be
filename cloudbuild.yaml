@@ -30,7 +30,7 @@ steps:
       [
         "run",
         "deploy",
-        "be",
+        "tugas6-be",
         "--image",
         "gcr.io/$PROJECT_ID/tcc-be",
         "--timeout",
